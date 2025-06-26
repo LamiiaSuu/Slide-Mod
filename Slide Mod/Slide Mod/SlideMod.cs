@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Slide_Mod
 {
-    public class Class1
+    public class SlideMod
     {
     }
 }
